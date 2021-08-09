@@ -1,0 +1,8 @@
+site_name: PVE-docs
+site_url: https://pve-docs.mou.tw/
+nav:
+    - Home: index.md
+theme: readthedocs
+markdown_extensions:
+  - attr_list
+
