@@ -1,5 +1,5 @@
 site_name: PVE-docs
-site_url: https://pve-docs.mou.tw/
+site_url: https://www.mou.tw/Home-PVE-docs/
 nav:
     - Home: index.md
 theme: readthedocs
