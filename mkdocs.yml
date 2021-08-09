@@ -1,8 +1,14 @@
 site_name: PVE-docs
 site_url: https://www.mou.tw/Home-PVE-docs/
 nav:
-    - Home: index.md
-theme: readthedocs
+  - Home: index.md
+  - Setup:
+      - Installation: setup/installation.md
+      - Network: setup/network.md
+theme:
+  name: readthedocs
+
 markdown_extensions:
   - attr_list
-
+  - toc:
+      permalink: "#"
